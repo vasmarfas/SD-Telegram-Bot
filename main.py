@@ -14,9 +14,9 @@ import base64
 #TOKEN = os.environ.get("TOKEN", None) 
 #SD_URL = os.environ.get("SDURl", None) 
 load_dotenv()
-TOKEN = "6202958585:AAFgM1OIHhr56Gv7oR4W27kA3pwSKQPTGuo"
-API_ID = 20645322
-API_HASH = "81ac866455bbcb62582397ccfdd573b9"
+TOKEN = "0000:XXXX"
+API_ID = 0000
+API_HASH = "XXXX"
 SD_URL = "http://127.0.0.1:7860"
 bot = Client(
     "stable",
